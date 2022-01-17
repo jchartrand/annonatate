@@ -1,0 +1,41 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "A person",
+            "purpose": "commenting",
+            "creator": {
+                "id": "jchartrand",
+                "name": "James Chartrand"
+            },
+            "created": "2022-01-17T19:02:48.939Z",
+            "modified": "2022-01-17T19:02:49.749Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "person",
+            "purpose": "tagging",
+            "creator": {
+                "id": "jchartrand",
+                "name": "James Chartrand"
+            },
+            "created": "2022-01-17T19:02:51.733Z",
+            "modified": "2022-01-17T19:02:52.156Z"
+        }
+    ],
+    "target": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:68.70820617675781,12.242798805236816,53.125,86.08218288421631"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bb893b6d-20cf-4b71-b421-d89fe0c5126e.json"
+}
